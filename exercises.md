@@ -16,7 +16,6 @@ Triển khai tất cả TODO trong `template.py`. Chạy `pytest tests/` để k
 ```bash
 python template.py
 ```
-Bạn sẽ thấy output so sánh phản hồi của GPT-4o và GPT-4o-mini.
 
 ```
 vinuni ❯ ./vinuni/bin/python -m pytest Day01-lab-assignment/tests -v
